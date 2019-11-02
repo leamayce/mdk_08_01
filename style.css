@@ -123,7 +123,6 @@ html, body {
   margin: 60px auto 0;
   min-height: 10px;
   overflow: hidden;
-  background-color: rgba(0, 0, 0, 0.1);
 }
 
 #section_7 .centerconteiner .pikcha {
@@ -135,7 +134,22 @@ html, body {
   background-size: cover;
 }
 
+#section_7 .centerconteiner .text {
+  width: 350px;
+  float: right;
+  font-family: "Arial";
+  font-size: 12pt;
+  color: #0f243e;
+  font-weight: bold;
+}
 
+#section_7 .bottomconteiner {
+  width: 700px;
+  margin: 60px auto 0;
+  font-family: "Arial";
+  font-size: 12pt;
+  color: #0f243e;
+}
 .title {
   padding: 20px 0;
   font-size: 30px;
